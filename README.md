@@ -93,7 +93,7 @@ python run.py
 ## 👤 개발자 정보
 
 - **이름**: [김지안]
-- **GitHub**: 
+- **GitHub**: https://github.com/kimjian0406/Study-planner-app0526.git
 - **Email**:oheunsuhhy3@gmail.com
 
 ---
