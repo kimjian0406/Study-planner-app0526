@@ -92,9 +92,9 @@ python run.py
 
 ## 👤 개발자 정보
 
-- **이름**: [홍길동]
-- **GitHub**: [https://github.com/yourusername](https://github.com/yourusername)
-- **Email**: [your.email@example.com]
+- **이름**: [김지안]
+- **GitHub**: [https://github.com/kimjian0406/Study-planner-app0526.git])
+- **Email**: [oheunsuhhy3@gmail.com]
 
 ---
 
