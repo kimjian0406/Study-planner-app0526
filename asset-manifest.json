@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/Study-planner-app0526/static/css/main.31d6cfe0.css",
+    "main.js": "/Study-planner-app0526/static/js/main.afe17627.js",
+    "index.html": "/Study-planner-app0526/index.html",
+    "main.afe17627.js.map": "/Study-planner-app0526/static/js/main.afe17627.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.afe17627.js"
+  ]
+}
